@@ -9,7 +9,7 @@
 
 # Amashiro Yuze's GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+Learn about me by this following link!
 
 </header>
 
